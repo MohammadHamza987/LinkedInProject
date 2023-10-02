@@ -1,0 +1,4 @@
+2023-10-01 16:51:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-10-01 16:52:00 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2023-10-01 16:52:00 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to regiter into the application by providing  all the details
+2023-10-01 16:52:00 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
